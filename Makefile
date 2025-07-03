@@ -22,7 +22,3 @@ install:
 	. $(ACTIVATE); pip install -r requirements.txt
 i:
 	make install
-pdf:
-	python pdf_to_html/pdf_to_html.py
-im:
-	python pdf_to_html/pdf_to_image_to_html.py example.pdf 0 output.png output.html
