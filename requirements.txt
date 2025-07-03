@@ -1,0 +1,25 @@
+PyMuPDF
+# PyMuPDF==1.19.0
+#PyMuPDF==1.19.0
+pdfplumber
+camelot-py
+beautifulsoup4
+pandas
+pymupdf
+opencv-python
+pillow
+pytesseract
+numpy
+#paddlepaddle==2.5.1 -f https://www.paddlepaddle.org.cn/whl/paddle_cpu.html
+#paddleocr==2.6.1.0
+img2pdf
+pandas
+pdf2image
+
+pymupdf4llm
+ipython
+python-poppler
+
+#pip install "paddleocr>=2.0.1" --upgrade PyMuPDF==1.21.1
+# pip install PyMuPDF --prefer-binary
+# pip install "paddleocr>=2.0.1" --upgrade PyMuPDF==1.21.1
